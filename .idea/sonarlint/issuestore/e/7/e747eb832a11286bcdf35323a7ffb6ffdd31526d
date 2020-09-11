@@ -1,0 +1,27 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(–âÿ8÷’ÒÂÇ.
+S
+java:S1854"6Remove this useless assignment to local variable "p1".(§ğ§ò8÷’ÒÂÇ.
+[
+java:S1854+">Remove this useless assignment to local variable "realPathP3".(à·„æ8÷’ÒÂÇ.
+K
+java:S1481.")Remove this unused "file" local variable.(ÓûÉçùÿÿÿÿ8÷’ÒÂÇ.
+Q
+java:S1481,"/Remove this unused "realPathP4" local variable.(©àÖÒûÿÿÿÿ8÷’ÒÂÇ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÂåÑòşÿÿÿÿ8÷’ÒÂÇ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§åâÍ8÷’ÒÂÇ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Èù‹ˆ8÷’ÒÂÇ.
+L
+java:S1481+"/Remove this unused "realPathP3" local variable.(à·„æ8÷’ÒÂÇ.
+]	java:S1254"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8÷’ÒÂÇ.
+X	java:S1252"<This block of commented-out lines of code should be removed.(ö®˜ï8÷’ÒÂÇ.
+Z
+java:S1854."8Remove this useless assignment to local variable "file".(ÓûÉçùÿÿÿÿ8÷’ÒÂÇ.
+]	java:S1250"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8÷’ÒÂÇ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(±ß°«üÿÿÿÿ8÷’ÒÂÇ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¹£’ƒıÿÿÿÿ8÷’ÒÂÇ.
+`
+java:S1854,">Remove this useless assignment to local variable "realPathP4".(©àÖÒûÿÿÿÿ8÷’ÒÂÇ.
+O
+java:S1135E"2Complete the task associated to this TODO comment.(”úÁ°8÷’ÒÂÇ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(¿¸òÅÿÿÿÿÿ8÷’ÒÂÇ.
